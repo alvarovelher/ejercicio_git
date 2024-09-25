@@ -1,1 +1,2 @@
 hola buenas esto es una prueba de git
+esto es un cambio en el txt
